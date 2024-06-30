@@ -4,6 +4,7 @@ main {
 }
 body {
   flex-direction: column;
+  background-color: pink;
 }
 main {
   flex-direction: row;
@@ -12,8 +13,12 @@ main {
 article {
   flex: 2;
   overflow-y: auto;
+  background-color: aliceblue;
 }
 aside {
   flex: 1;
   overflow-y: auto;
+}
+.logo {
+  font-size: 50px;
 }
