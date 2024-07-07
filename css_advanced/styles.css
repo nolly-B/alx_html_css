@@ -1,0 +1,105 @@
+header {
+  position: relative;
+  width: 1103.41px;
+  height: 29.46px;
+  top: 35.02px;
+  left: 171.59px;
+  padding: 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+body {
+  background-image: url("./CSS Advanced/Object.png");
+  background-repeat: no-repeat;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  position: relative;
+  bottom: 40px;
+}
+.logo {
+  position: relative;
+  right: 150px;
+  font-size: 10px;
+}
+.h2-heading {
+  font-weight: bolder;
+  color: #c271ff;
+}
+h1 {
+  position: relative;
+  top: 200px;
+  text-align: center;
+  font-size: 70px;
+  font-weight: bolder;
+  color: white;
+}
+button {
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 200px;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 25px;
+  background-color: #c271ff;
+}
+h2 {
+  text-align: center;
+  position: relative;
+  top: 350px;
+}
+.label {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  position: relative;
+  top: 170px;
+  color: white;
+  font-size: 10px;
+}
+.section-text {
+  text-align: center;
+  color: white;
+  position: relative;
+  bottom: 120px;
+}
+.tutorial-images {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.tutorials {
+  position: relative;
+  bottom: 130px;
+}
+.section-2 {
+  background-color: #c271ff;
+  position: relative;
+  top: 390px;
+}
+h3,
+p {
+  color: white;
+}
+.bruce-image {
+  border-radius: 50%;
+}
+.client-images {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  position: relative;
+  top: 400px;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  color: white;
+  text-decoration: none;
+}

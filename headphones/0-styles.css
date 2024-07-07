@@ -1,0 +1,39 @@
+.bg-image {
+  position: relative;
+}
+
+body {
+  background-image: url(./images/headphones_hero_1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 160px 20px;
+}
+ul {
+  color: white;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  bottom: 150px;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+h3 {
+  text-align: center;
+  color: white;
+}
+button {
+  display: block;
+  margin: auto;
+  background-color: #ff6565;
+  color: white;
+  border-radius: 15px;
+  padding: 15px 30px;
+  margin-top: 70px;
+}
+p {
+  color: white;
+}
