@@ -44,6 +44,9 @@ a {
 a:hover {
   color: #ff6565;
 }
+hr {
+  width: 1000px;
+}
 h1 {
   text-align: center;
   color: white;
