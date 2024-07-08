@@ -9,9 +9,11 @@
   display: flex;
   justify-content: space-evenly;
 }
-
+.section-1 {
+  padding: 160px 20px;
+}
 .our-results {
-  background-image: url(./headphones_hero_2.jpg);
+  background-image: url(./images/headphones_hero_2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -21,7 +23,7 @@ img {
   width: 150px;
 }
 header {
-  background-image: url(./headphones_hero_1.jpg);
+  background-image: url(./images/headphones_hero_1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
